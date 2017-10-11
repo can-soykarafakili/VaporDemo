@@ -1,0 +1,4 @@
+framework module FluentProvider {
+    header "FluentProvider-Swift.h"
+    requires objc
+}

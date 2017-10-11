@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "b100b917e5caf8cf9cfac10f99d54bbf"
+build_time: [1507708954, 712445000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/debugging.git-4365319567167379684/Sources/Debugging/Debuggable.swift": [1507708931, 0]

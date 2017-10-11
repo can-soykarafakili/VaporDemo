@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "c0443ae83ece15068c02fbbd7e45e1b5"
+build_time: [1507711798, 428582000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher+Method.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/ByteStream.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Exports.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Helpers.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC+Method.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash+Method.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Hash+Random.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/LibreSSLError.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/PseudoRandom.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Random.swift": [1507708932, 0]

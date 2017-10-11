@@ -1,0 +1,15 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "629f04ecb1a8b4d51cc9c8fc16da8b4a"
+build_time: [1507711834, 178983000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+BytesConvertible.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Parse.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Serialize.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+BytesConvertible.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Literal.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Parse.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Serialize.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Request+Cookies.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Response+Cookies.swift": [1507708931, 0]

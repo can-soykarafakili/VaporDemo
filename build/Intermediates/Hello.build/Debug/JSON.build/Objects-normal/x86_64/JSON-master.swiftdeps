@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "8876d286b65525342230054dc6444858"
+build_time: [1507711823, 334006000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Bytes.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Equatable.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Fuzzy.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Parse.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Serialize.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONContext.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONRepresentable.swift": [1507708931, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/Sequence+Convertible.swift": [1507708931, 0]

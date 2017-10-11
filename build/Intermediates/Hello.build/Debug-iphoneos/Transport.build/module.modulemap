@@ -1,0 +1,4 @@
+framework module Transport {
+    header "Transport-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+framework module TLS {
+    header "TLS-Swift.h"
+    requires objc
+}

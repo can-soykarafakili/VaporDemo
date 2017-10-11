@@ -1,0 +1,4 @@
+framework module BCrypt {
+    header "BCrypt-Swift.h"
+    requires objc
+}

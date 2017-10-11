@@ -1,0 +1,4 @@
+framework module FormData {
+    header "FormData-Swift.h"
+    requires objc
+}

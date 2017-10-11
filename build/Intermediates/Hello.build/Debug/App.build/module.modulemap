@@ -1,0 +1,4 @@
+framework module App {
+    header "App-Swift.h"
+    requires objc
+}

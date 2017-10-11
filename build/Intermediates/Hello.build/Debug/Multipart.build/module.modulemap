@@ -1,0 +1,4 @@
+framework module Multipart {
+    header "Multipart-Swift.h"
+    requires objc
+}

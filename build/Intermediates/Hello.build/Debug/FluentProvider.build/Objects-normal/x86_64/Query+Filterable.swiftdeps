@@ -1,0 +1,158 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["6Fluent18QueryRepresentableP", ""]
+- ["6Fluent6EntityP", ""]
+- ["6Fluent18QueryRepresentableP", "filter"]
+- ["6Fluent6EntityP", "filter"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Entity"
+- "ExecutorRepresentable"
+- "Filterable"
+- "Query"
+- "QueryRepresentable"
+- "Request"
+depends-member:
+- !private ["5Vapor7ContentC", "subscript"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- ["6Fluent6EntityP", "Filterable"]
+- ["6Fluent6EntityP", "Query"]
+- ["6Fluent6EntityP", "Request"]
+- ["6Fluent6EntityP", "Self"]
+- ["6Fluent6EntityP", "filter"]
+- !private ["6Fluent6EntityP", "filterableKeys"]
+- !private ["6Fluent6EntityP", "makeQuery"]
+- ["6Fluent21ExecutorRepresentableP", "E"]
+- ["6Fluent21ExecutorRepresentableP", "Query"]
+- ["6Fluent21ExecutorRepresentableP", "Request"]
+- !private ["6Fluent21ExecutorRepresentableP", "filter"]
+- !private ["6Fluent21ExecutorRepresentableP", "makeQuery"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "comparison"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "publicKey"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "queryKey"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "valueMap"]
+- !private ["s26ExpressibleByStringLiteralP", "comparison"]
+- !private ["s26ExpressibleByStringLiteralP", "publicKey"]
+- !private ["s26ExpressibleByStringLiteralP", "queryKey"]
+- !private ["s26ExpressibleByStringLiteralP", "valueMap"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "comparison"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "publicKey"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "queryKey"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "valueMap"]
+- ["14FluentProvider10FilterableP", "Query"]
+- ["14FluentProvider10FilterableP", "Request"]
+- ["14FluentProvider10FilterableP", "Self"]
+- !private ["14FluentProvider10FilterableP", "filterableKeys"]
+- !private ["14FluentProvider10FilterableP", "makeQuery"]
+- !private ["14FluentProvider13FilterableKeyV", "comparison"]
+- !private ["14FluentProvider13FilterableKeyV", "publicKey"]
+- !private ["14FluentProvider13FilterableKeyV", "queryKey"]
+- !private ["14FluentProvider13FilterableKeyV", "valueMap"]
+- !private ["4HTTP7MessageP", "data"]
+- !private ["4Node0A13RepresentableP", "data"]
+- !private ["6Fluent5QueryC", "filter"]
+- ["6Fluent18QueryRepresentableP", "E"]
+- ["6Fluent18QueryRepresentableP", "ExecutorRepresentable"]
+- ["6Fluent18QueryRepresentableP", "Filterable"]
+- ["6Fluent18QueryRepresentableP", "Query"]
+- ["6Fluent18QueryRepresentableP", "Request"]
+- ["6Fluent18QueryRepresentableP", "filter"]
+- !private ["6Fluent18QueryRepresentableP", "makeQuery"]
+- !private ["4HTTP7RequestC", "data"]
+- ["6Fluent14RowConvertibleP", "Filterable"]
+- ["6Fluent14RowConvertibleP", "Query"]
+- ["6Fluent14RowConvertibleP", "Request"]
+- ["6Fluent14RowConvertibleP", "Self"]
+- !private ["6Fluent14RowConvertibleP", "filterableKeys"]
+- !private ["6Fluent14RowConvertibleP", "makeQuery"]
+- ["6Fluent16RowInitializableP", "Filterable"]
+- ["6Fluent16RowInitializableP", "Query"]
+- ["6Fluent16RowInitializableP", "Request"]
+- ["6Fluent16RowInitializableP", "Self"]
+- !private ["6Fluent16RowInitializableP", "filterableKeys"]
+- !private ["6Fluent16RowInitializableP", "makeQuery"]
+- ["6Fluent16RowRepresentableP", "Filterable"]
+- ["6Fluent16RowRepresentableP", "Query"]
+- ["6Fluent16RowRepresentableP", "Request"]
+- ["6Fluent16RowRepresentableP", "Self"]
+- !private ["6Fluent16RowRepresentableP", "filterableKeys"]
+- !private ["6Fluent16RowRepresentableP", "makeQuery"]
+- ["6Fluent8StorableP", "Filterable"]
+- ["6Fluent8StorableP", "Query"]
+- ["6Fluent8StorableP", "Request"]
+- ["6Fluent8StorableP", "Self"]
+- !private ["6Fluent8StorableP", "filterableKeys"]
+- !private ["6Fluent8StorableP", "makeQuery"]
+depends-nominal:
+- !private "5Vapor7ContentC"
+- !private "s23CustomStringConvertibleP"
+- "6Fluent6EntityP"
+- "6Fluent21ExecutorRepresentableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "14FluentProvider10FilterableP"
+- !private "14FluentProvider13FilterableKeyV"
+- !private "4HTTP7MessageP"
+- !private "4Node0A13RepresentableP"
+- !private "6Fluent5QueryC"
+- "6Fluent18QueryRepresentableP"
+- !private "4HTTP7RequestC"
+- "6Fluent14RowConvertibleP"
+- "6Fluent16RowInitializableP"
+- "6Fluent16RowRepresentableP"
+- "6Fluent8StorableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/URI.framework/Modules/URI.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/JSON.framework/Modules/JSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/SMTP.framework/Modules/SMTP.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/HTTP.framework/Modules/HTTP.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/TLS.framework/Modules/TLS.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/FormData.framework/Modules/FormData.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/libc.framework/Modules/libc.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Node.framework/Modules/Node.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Cache.framework/Modules/Cache.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/PathIndexable.framework/Modules/PathIndexable.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Console.framework/Modules/Console.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Core.framework/Modules/Core.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/SQLite.framework/Modules/SQLite.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Debugging.framework/Modules/Debugging.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Routing.framework/Modules/Routing.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Random.framework/Modules/Random.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Crypto.framework/Modules/Crypto.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Vapor.framework/Modules/Vapor.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Branches.framework/Modules/Branches.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Cookies.framework/Modules/Cookies.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Configs.framework/Modules/Configs.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Sessions.framework/Modules/Sessions.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Sockets.framework/Modules/Sockets.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/WebSockets.framework/Modules/WebSockets.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Bits.framework/Modules/Bits.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Fluent.framework/Modules/Fluent.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/BCrypt.framework/Modules/BCrypt.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Multipart.framework/Modules/Multipart.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Transport.framework/Modules/Transport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sqlite.git--8232814251736334455/Sources/CSQLite/include/sqlite3.h"
+- "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/cansoykarafakili/Desktop/Hello/Hello.xcodeproj/GeneratedModuleMap/CHTTP/module.modulemap"
+- "/Users/cansoykarafakili/Desktop/Hello/Hello.xcodeproj/GeneratedModuleMap/CSQLite/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "7f429a4414b2d090b234609229867619"

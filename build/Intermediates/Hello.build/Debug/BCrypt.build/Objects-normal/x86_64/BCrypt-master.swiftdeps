@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "a354ff2d1c21a08ae2d60173d37da3e7"
+build_time: [1507711820, 966408000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/BCryptError.swift": [1507708933, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Base64.swift": [1507708933, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Convenience.swift": [1507708933, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Export.swift": [1507708933, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Hash.swift": [1507708933, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Keys.swift": [1507708933, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Parser.swift": [1507708933, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Salt.swift": [1507708933, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Serializer.swift": [1507708933, 0]

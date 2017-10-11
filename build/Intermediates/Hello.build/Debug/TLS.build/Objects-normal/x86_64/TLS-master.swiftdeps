@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "ec8a4568a7a8dccab3c04c0052d1c7e2"
+build_time: [1507711808, 341752000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Certificates.swift": [1507708934, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ClientSocket.swift": [1507708934, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Context.swift": [1507708934, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Error.swift": [1507708934, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Exports.swift": [1507708934, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/InternetSocket.swift": [1507708934, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Mode.swift": [1507708934, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ReadableSocket.swift": [1507708934, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ServerSocket.swift": [1507708934, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Socket.swift": [1507708934, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Utilities.swift": [1507708934, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/WriteableSocket.swift": [1507708934, 0]

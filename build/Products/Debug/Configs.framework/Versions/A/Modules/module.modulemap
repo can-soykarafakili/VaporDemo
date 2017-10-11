@@ -1,0 +1,4 @@
+framework module Configs {
+    header "Configs-Swift.h"
+    requires objc
+}

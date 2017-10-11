@@ -1,0 +1,123 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AbortError"
+provides-nominal:
+- "5Vapor10AbortErrorP"
+- "4HTTP6StatusO"
+provides-member:
+- ["5Vapor10AbortErrorP", ""]
+- ["4HTTP6StatusO", ""]
+- ["5Vapor10AbortErrorP", "metadata"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AbortError"
+- "HTTP"
+- "Node"
+- "Status"
+- "String"
+- "Swift"
+depends-member:
+- ["5Vapor10AbortErrorP", "Node"]
+- ["5Vapor10AbortErrorP", "Status"]
+- ["5Vapor10AbortErrorP", "String"]
+- ["5Vapor10AbortErrorP", "_code"]
+- ["5Vapor10AbortErrorP", "_domain"]
+- ["5Vapor10AbortErrorP", "_getEmbeddedNSError"]
+- ["5Vapor10AbortErrorP", "_userInfo"]
+- ["5Vapor10AbortErrorP", "metadata"]
+- ["5Vapor10AbortErrorP", "reason"]
+- !private ["5Vapor10AbortErrorP", "reasonPhrase"]
+- ["5Vapor10AbortErrorP", "status"]
+- ["5Vapor10AbortErrorP", ""]
+- ["s9EquatableP", "_code"]
+- ["s9EquatableP", "_domain"]
+- ["s9EquatableP", "_getEmbeddedNSError"]
+- ["s9EquatableP", "_userInfo"]
+- ["s9EquatableP", "metadata"]
+- ["s9EquatableP", "reason"]
+- !private ["s9EquatableP", "reasonPhrase"]
+- ["s9EquatableP", "status"]
+- ["s5ErrorP", "Node"]
+- ["s5ErrorP", "Status"]
+- ["s5ErrorP", "String"]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "metadata"]
+- ["s5ErrorP", "reason"]
+- !private ["s5ErrorP", "reasonPhrase"]
+- ["s5ErrorP", "status"]
+- ["s5ErrorP", ""]
+- ["s8HashableP", "_code"]
+- ["s8HashableP", "_domain"]
+- ["s8HashableP", "_getEmbeddedNSError"]
+- ["s8HashableP", "_userInfo"]
+- ["s8HashableP", "metadata"]
+- ["s8HashableP", "reason"]
+- !private ["s8HashableP", "reasonPhrase"]
+- ["s8HashableP", "status"]
+- ["4HTTP6StatusO", "Status"]
+- ["4HTTP6StatusO", "String"]
+- ["4HTTP6StatusO", "_code"]
+- ["4HTTP6StatusO", "_domain"]
+- ["4HTTP6StatusO", "_getEmbeddedNSError"]
+- ["4HTTP6StatusO", "_userInfo"]
+- ["4HTTP6StatusO", "deinit"]
+- ["4HTTP6StatusO", "metadata"]
+- ["4HTTP6StatusO", "reason"]
+- !private ["4HTTP6StatusO", "reasonPhrase"]
+- ["4HTTP6StatusO", "status"]
+depends-nominal:
+- "5Vapor10AbortErrorP"
+- "s9EquatableP"
+- "s5ErrorP"
+- "s8HashableP"
+- "4HTTP6StatusO"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/URI.framework/Modules/URI.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/JSON.framework/Modules/JSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/SMTP.framework/Modules/SMTP.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/HTTP.framework/Modules/HTTP.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/TLS.framework/Modules/TLS.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/FormData.framework/Modules/FormData.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/libc.framework/Modules/libc.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Node.framework/Modules/Node.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Cache.framework/Modules/Cache.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/PathIndexable.framework/Modules/PathIndexable.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Console.framework/Modules/Console.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Core.framework/Modules/Core.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Debugging.framework/Modules/Debugging.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Routing.framework/Modules/Routing.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Random.framework/Modules/Random.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Crypto.framework/Modules/Crypto.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Branches.framework/Modules/Branches.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Cookies.framework/Modules/Cookies.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Configs.framework/Modules/Configs.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Sessions.framework/Modules/Sessions.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Sockets.framework/Modules/Sockets.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/WebSockets.framework/Modules/WebSockets.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Bits.framework/Modules/Bits.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/BCrypt.framework/Modules/BCrypt.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Multipart.framework/Modules/Multipart.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Transport.framework/Modules/Transport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/cansoykarafakili/Desktop/Hello/Hello.xcodeproj/GeneratedModuleMap/CHTTP/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "f36ff9d6e6136c15d6b190fe92a00bd4"

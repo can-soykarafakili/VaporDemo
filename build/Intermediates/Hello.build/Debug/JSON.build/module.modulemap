@@ -1,0 +1,4 @@
+framework module JSON {
+    header "JSON-Swift.h"
+    requires objc
+}

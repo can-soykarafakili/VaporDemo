@@ -1,0 +1,4 @@
+framework module PathIndexable {
+    header "PathIndexable-Swift.h"
+    requires objc
+}

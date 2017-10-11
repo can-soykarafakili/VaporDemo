@@ -1,0 +1,4 @@
+framework module BCryptPackageDescription {
+    header "BCryptPackageDescription-Swift.h"
+    requires objc
+}

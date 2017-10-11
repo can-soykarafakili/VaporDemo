@@ -1,0 +1,4 @@
+framework module MultipartPackageDescription {
+    header "MultipartPackageDescription-Swift.h"
+    requires objc
+}

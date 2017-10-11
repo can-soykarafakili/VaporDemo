@@ -1,0 +1,4 @@
+framework module TLSPackageDescription {
+    header "TLSPackageDescription-Swift.h"
+    requires objc
+}

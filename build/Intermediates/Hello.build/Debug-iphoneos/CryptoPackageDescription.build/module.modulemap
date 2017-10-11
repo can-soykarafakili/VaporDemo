@@ -1,0 +1,4 @@
+framework module CryptoPackageDescription {
+    header "CryptoPackageDescription-Swift.h"
+    requires objc
+}

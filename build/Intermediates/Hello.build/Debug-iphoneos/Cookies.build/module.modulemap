@@ -1,0 +1,4 @@
+framework module Cookies {
+    header "Cookies-Swift.h"
+    requires objc
+}

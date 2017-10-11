@@ -1,0 +1,229 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CreatePokemonDatabase"
+provides-nominal:
+- "3App21CreatePokemonDatabaseC"
+provides-member:
+- ["3App21CreatePokemonDatabaseC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "CreatePokemonDatabase"
+- "Database"
+- !private "IntegerLiteralType"
+- !private "Pokemon"
+- "Preparation"
+- !private "StringLiteralType"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["4HTTP17BodyRepresentableP", "init"]
+- !private ["4Bits16BytesConvertibleP", "init"]
+- !private ["4Bits18BytesInitializableP", "init"]
+- !private ["4Bits18BytesRepresentableP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- ["3App21CreatePokemonDatabaseC", "Database"]
+- !private ["3App21CreatePokemonDatabaseC", "Pokemon"]
+- ["3App21CreatePokemonDatabaseC", "deinit"]
+- ["3App21CreatePokemonDatabaseC", "init"]
+- ["3App21CreatePokemonDatabaseC", "prepare"]
+- ["3App21CreatePokemonDatabaseC", "revert"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s9DecodableP", "init"]
+- !private ["4SMTP25EmailAddressRepresentableP", "init"]
+- !private ["4SMTP22EmailBodyRepresentableP", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["6Fluent6EntityP", "init"]
+- !private ["6Fluent6EntityP", "save"]
+- !private ["s9EquatableP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "init"]
+- !private ["4JSON15JSONConvertibleP", "init"]
+- !private ["4JSON15JSONConvertibleP", "save"]
+- !private ["4JSON17JSONInitializableP", "init"]
+- !private ["4JSON17JSONInitializableP", "save"]
+- !private ["4JSON17JSONRepresentableP", "init"]
+- !private ["4JSON17JSONRepresentableP", "save"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["14FluentProvider5ModelP", "init"]
+- !private ["14FluentProvider5ModelP", "save"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["4Node0A13InitializableP", "init"]
+- !private ["4Node0A13RepresentableP", "init"]
+- !private ["7Routing15ParameterizableP", "init"]
+- !private ["7Routing15ParameterizableP", "save"]
+- !private ["13PathIndexable0A7IndexerP", "init"]
+- !private ["3App7PokemonC", "deinit"]
+- !private ["3App7PokemonC", "init"]
+- !private ["3App7PokemonC", "save"]
+- !private ["6Fluent11PreparationP", "Pokemon"]
+- !private ["6Fluent11PreparationP", "init"]
+- ["6Fluent11PreparationP", "prepare"]
+- ["6Fluent11PreparationP", "revert"]
+- !private ["6Fluent11PreparationP", "save"]
+- ["6Fluent11PreparationP", ""]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["5Vapor23RequestContentSubscriptP", "init"]
+- !private ["4HTTP21ResponseRepresentableP", "init"]
+- !private ["4HTTP21ResponseRepresentableP", "save"]
+- !private ["6Fluent14RowConvertibleP", "init"]
+- !private ["6Fluent14RowConvertibleP", "save"]
+- !private ["6Fluent16RowInitializableP", "init"]
+- !private ["6Fluent16RowInitializableP", "save"]
+- !private ["6Fluent16RowRepresentableP", "init"]
+- !private ["6Fluent16RowRepresentableP", "save"]
+- !private ["s8SequenceP", "init"]
+- !private ["6Fluent8StorableP", "init"]
+- !private ["6Fluent8StorableP", "save"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "4HTTP17BodyRepresentableP"
+- !private "4Bits16BytesConvertibleP"
+- !private "4Bits18BytesInitializableP"
+- !private "4Bits18BytesRepresentableP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "3App21CreatePokemonDatabaseC"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "4SMTP25EmailAddressRepresentableP"
+- !private "4SMTP22EmailBodyRepresentableP"
+- !private "s9EncodableP"
+- !private "6Fluent6EntityP"
+- !private "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s8HashableP"
+- !private "4JSON15JSONConvertibleP"
+- !private "4JSON17JSONInitializableP"
+- !private "4JSON17JSONRepresentableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "14FluentProvider5ModelP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "4Node0A13InitializableP"
+- !private "4Node0A13RepresentableP"
+- !private "7Routing15ParameterizableP"
+- !private "13PathIndexable0A7IndexerP"
+- !private "3App7PokemonC"
+- "6Fluent11PreparationP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "5Vapor23RequestContentSubscriptP"
+- !private "4HTTP21ResponseRepresentableP"
+- !private "6Fluent14RowConvertibleP"
+- !private "6Fluent16RowInitializableP"
+- !private "6Fluent16RowRepresentableP"
+- !private "s8SequenceP"
+- !private "6Fluent8StorableP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/URI.framework/Modules/URI.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/JSON.framework/Modules/JSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/SMTP.framework/Modules/SMTP.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/HTTP.framework/Modules/HTTP.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/TLS.framework/Modules/TLS.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/FormData.framework/Modules/FormData.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/libc.framework/Modules/libc.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Node.framework/Modules/Node.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Cache.framework/Modules/Cache.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/PathIndexable.framework/Modules/PathIndexable.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Console.framework/Modules/Console.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Core.framework/Modules/Core.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/SQLite.framework/Modules/SQLite.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Debugging.framework/Modules/Debugging.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Routing.framework/Modules/Routing.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Random.framework/Modules/Random.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Crypto.framework/Modules/Crypto.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/FluentProvider.framework/Modules/FluentProvider.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Vapor.framework/Modules/Vapor.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Branches.framework/Modules/Branches.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Cookies.framework/Modules/Cookies.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Configs.framework/Modules/Configs.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Sessions.framework/Modules/Sessions.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Sockets.framework/Modules/Sockets.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/WebSockets.framework/Modules/WebSockets.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Bits.framework/Modules/Bits.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Fluent.framework/Modules/Fluent.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/BCrypt.framework/Modules/BCrypt.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Multipart.framework/Modules/Multipart.swiftmodule/x86_64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug/Transport.framework/Modules/Transport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sqlite.git--8232814251736334455/Sources/CSQLite/include/sqlite3.h"
+- "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/cansoykarafakili/Desktop/Hello/Hello.xcodeproj/GeneratedModuleMap/CHTTP/module.modulemap"
+- "/Users/cansoykarafakili/Desktop/Hello/Hello.xcodeproj/GeneratedModuleMap/CSQLite/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "27a910dadf629cb002ee5081f8791766"

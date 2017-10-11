@@ -1,0 +1,4 @@
+framework module BitsPackageDescription {
+    header "BitsPackageDescription-Swift.h"
+    requires objc
+}

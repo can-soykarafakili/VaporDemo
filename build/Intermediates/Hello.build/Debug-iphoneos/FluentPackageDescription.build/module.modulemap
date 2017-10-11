@@ -1,0 +1,4 @@
+framework module FluentPackageDescription {
+    header "FluentPackageDescription-Swift.h"
+    requires objc
+}

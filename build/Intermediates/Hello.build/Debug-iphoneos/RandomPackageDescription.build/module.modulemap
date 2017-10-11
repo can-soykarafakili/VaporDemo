@@ -1,0 +1,4 @@
+framework module RandomPackageDescription {
+    header "RandomPackageDescription-Swift.h"
+    requires objc
+}

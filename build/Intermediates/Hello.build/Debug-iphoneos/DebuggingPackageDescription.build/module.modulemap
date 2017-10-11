@@ -1,0 +1,4 @@
+framework module DebuggingPackageDescription {
+    header "DebuggingPackageDescription-Swift.h"
+    requires objc
+}

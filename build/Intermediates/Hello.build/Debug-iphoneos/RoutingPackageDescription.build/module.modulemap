@@ -1,0 +1,4 @@
+framework module RoutingPackageDescription {
+    header "RoutingPackageDescription-Swift.h"
+    requires objc
+}

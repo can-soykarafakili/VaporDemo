@@ -1,0 +1,4 @@
+framework module NodePackageDescription {
+    header "NodePackageDescription-Swift.h"
+    requires objc
+}

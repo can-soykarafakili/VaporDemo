@@ -1,0 +1,4 @@
+framework module HelloPackageDescription {
+    header "HelloPackageDescription-Swift.h"
+    requires objc
+}

@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "42c0d32ecd2de630daf9545f4ffd613e"
+build_time: [1507711835, 845547000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/ContentDispositionParser.swift": [1507708930, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Field.swift": [1507708930, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Parser.swift": [1507708930, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Serializer.swift": [1507708930, 0]

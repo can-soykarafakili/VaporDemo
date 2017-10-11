@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "362abb84794aaf5bfd0f36534759b8f4"
+build_time: [1507711787, 989811000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Exports.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/ClientStream.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/InternetStream.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/Port.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/ServerStream.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/FoundationStream.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/ReadableStream.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/Stream.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/StreamError.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/WriteableStream.swift": [1507708929, 0]

@@ -1,0 +1,4 @@
+framework module Node {
+    header "Node-Swift.h"
+    requires objc
+}

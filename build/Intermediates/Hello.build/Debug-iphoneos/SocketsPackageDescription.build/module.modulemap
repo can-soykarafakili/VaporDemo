@@ -1,0 +1,4 @@
+framework module SocketsPackageDescription {
+    header "SocketsPackageDescription-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+framework module VaporPackageDescription {
+    header "VaporPackageDescription-Swift.h"
+    requires objc
+}

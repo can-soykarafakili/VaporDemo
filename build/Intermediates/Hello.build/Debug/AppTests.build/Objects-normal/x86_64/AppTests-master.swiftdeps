@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "aa7ceaeb8a22046d080bf58e4cb6f8fa"
+build_time: [1507709416, 775897000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/Tests/AppTests/PostControllerTests.swift": [1507708837, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/Tests/AppTests/RouteTests.swift": [1507708837, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/Tests/AppTests/Utilities.swift": [1507708837, 0]

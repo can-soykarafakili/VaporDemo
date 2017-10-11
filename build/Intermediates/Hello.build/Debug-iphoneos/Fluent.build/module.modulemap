@@ -1,0 +1,4 @@
+framework module Fluent {
+    header "Fluent-Swift.h"
+    requires objc
+}

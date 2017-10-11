@@ -1,0 +1,4 @@
+framework module Sessions {
+    header "Sessions-Swift.h"
+    requires objc
+}

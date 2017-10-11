@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "89789f1f6db06bbf7b6573e015b43016"
+build_time: [1507724982, 656958000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/Sources/Run/main.swift": [1507717403, 0]

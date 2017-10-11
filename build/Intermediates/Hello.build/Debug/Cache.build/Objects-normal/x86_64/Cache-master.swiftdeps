@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "07d3d572a5db6ed9eb931394c19d4685"
+build_time: [1507711822, 845816000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/CacheProtocol.swift": [1507708928, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/MemoryCache.swift": [1507708928, 0]

@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "9eb3521719ae763a3a30da22dabbaea1"
+build_time: [1507711802, 968543000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Result.swift": [1507708933, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Statement.swift": [1507708933, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite.swift": [1507708933, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/StatusError.swift": [1507708933, 0]

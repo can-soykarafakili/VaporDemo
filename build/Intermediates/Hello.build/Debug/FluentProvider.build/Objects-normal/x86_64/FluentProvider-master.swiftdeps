@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "4ba362da2dc2017943eb4dad37ddfd21"
+build_time: [1507711852, 739874000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Cache.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Config+Driver.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Config+Preparation.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Droplet+Prepare.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Droplet+Storage.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Exports.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/Filterable.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/FilterableKey+String.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/FilterableKey.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/Query+Filterable.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Model.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Node+Row+JSON.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Pagination.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Prepare.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Provider.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/SQLite+Config.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Updateable/Request+Updateable.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Updateable/Updateable.swift": [1507708929, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Updateable/UpdateableKey.swift": [1507708929, 0]

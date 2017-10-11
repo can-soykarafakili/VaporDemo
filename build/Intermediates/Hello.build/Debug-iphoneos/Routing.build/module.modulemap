@@ -1,0 +1,4 @@
+framework module Routing {
+    header "Routing-Swift.h"
+    requires objc
+}

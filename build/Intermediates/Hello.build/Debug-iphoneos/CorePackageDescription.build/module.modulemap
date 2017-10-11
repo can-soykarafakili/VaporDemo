@@ -1,0 +1,4 @@
+framework module CorePackageDescription {
+    header "CorePackageDescription-Swift.h"
+    requires objc
+}

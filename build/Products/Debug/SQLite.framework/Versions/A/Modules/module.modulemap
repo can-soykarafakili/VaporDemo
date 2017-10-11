@@ -1,0 +1,4 @@
+framework module SQLite {
+    header "SQLite-Swift.h"
+    requires objc
+}

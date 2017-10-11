@@ -1,0 +1,18 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "5b84c982ce1b399e1424f596805f4f33"
+build_time: [1507711832, 416852000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Client/WebSocket+Client.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Communication/WebSocket+ControlFrames.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Communication/WebSocket+Send.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Connection/Headers+WebSockets.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Connection/WebSockets+Hash.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Model/Fragmentation.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Model/Frame.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Model/WebSocket+Error.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Model/WebSocket.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Request+WebSockets.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Serialization/FrameDeserializer.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Serialization/FrameSerializer.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Serialization/WebSockets+Flags.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/WebSocketFormatErrors.swift": [1507708932, 0]

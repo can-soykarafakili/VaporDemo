@@ -1,0 +1,4 @@
+framework module URI {
+    header "URI-Swift.h"
+    requires objc
+}

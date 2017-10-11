@@ -1,0 +1,4 @@
+framework module JSONPackageDescription {
+    header "JSONPackageDescription-Swift.h"
+    requires objc
+}

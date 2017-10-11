@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "e017ae9e9062b16d7238521e651beadb"
+build_time: [1507730417, 634191000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/Sources/App/Models/Pokemon.swift": [1507730367, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/Sources/App/Controllers/PostController.swift": [1507708837, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/Sources/App/Models/Post.swift": [1507708837, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/Sources/App/Routes/Routes.swift": [1507730417, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/Sources/App/Models/CreatePokemonDatabase.swift": [1507730017, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/Sources/App/Setup/Config+Setup.swift": [1507718218, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/Sources/App/Setup/Droplet+Setup.swift": [1507708837, 0]

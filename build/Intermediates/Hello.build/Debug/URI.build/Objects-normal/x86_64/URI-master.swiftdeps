@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "a5cfe5000f912d179d71535933ac9e55"
+build_time: [1507711803, 645632000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Byte.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Modification.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Ports.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+String.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI.swift": [1507708932, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Parser/Parser.swift": [1507708932, 0]

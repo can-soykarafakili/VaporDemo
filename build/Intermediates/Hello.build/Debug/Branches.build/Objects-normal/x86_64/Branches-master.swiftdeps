@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "fee4eafb914796def27c30889d45163b"
+build_time: [1507711804, 942152000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/Branch+Paths.swift": [1507708930, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/Branch.swift": [1507708930, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/SubBranchMap.swift": [1507708930, 0]

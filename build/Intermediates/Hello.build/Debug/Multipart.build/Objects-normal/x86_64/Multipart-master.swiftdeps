@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "2065e7e2a8a445f2807224eaadd70467"
+build_time: [1507711830, 996553000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/BoundaryParser.swift": [1507708930, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/HeaderParser.swift": [1507708930, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Multipart+BytesConvertible.swift": [1507708930, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Parser.swift": [1507708930, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Part.swift": [1507708930, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Serializer.swift": [1507708930, 0]

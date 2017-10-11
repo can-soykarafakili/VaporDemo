@@ -1,0 +1,4 @@
+framework module libc {
+    header "libc-Swift.h"
+    requires objc
+}

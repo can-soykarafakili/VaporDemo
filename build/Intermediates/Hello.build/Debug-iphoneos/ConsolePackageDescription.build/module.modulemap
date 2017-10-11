@@ -1,0 +1,4 @@
+framework module ConsolePackageDescription {
+    header "ConsolePackageDescription-Swift.h"
+    requires objc
+}

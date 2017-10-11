@@ -1,0 +1,4 @@
+framework module SMTP {
+    header "SMTP-Swift.h"
+    requires objc
+}

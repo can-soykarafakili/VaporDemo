@@ -1,0 +1,50 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Context"
+- "ObjectContext"
+- "emptyContext"
+provides-nominal:
+- "4Node7ContextP"
+- "4Node13ObjectContextC"
+provides-member:
+- ["4Node7ContextP", ""]
+- ["4Node13ObjectContextC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "Context"
+- "Dictionary"
+- "Hashable"
+- "Int"
+- "ObjectContext"
+- "String"
+- "emptyContext"
+depends-member:
+- ["4Node7ContextP", "init"]
+- !private ["4Node7ContextP", "object"]
+- ["4Node7ContextP", ""]
+- ["4Node13ObjectContextC", "K"]
+- ["4Node13ObjectContextC", "V"]
+- ["4Node13ObjectContextC", "deinit"]
+- ["4Node13ObjectContextC", "init"]
+- ["4Node13ObjectContextC", "object"]
+depends-nominal:
+- "4Node7ContextP"
+- "4Node13ObjectContextC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug-iphoneos/libc.framework/Modules/libc.swiftmodule/arm64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug-iphoneos/PathIndexable.framework/Modules/PathIndexable.swiftmodule/arm64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug-iphoneos/Core.framework/Modules/Core.swiftmodule/arm64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug-iphoneos/Debugging.framework/Modules/Debugging.swiftmodule/arm64.swiftmodule"
+- "/Users/cansoykarafakili/Desktop/Hello/build/Products/Debug-iphoneos/Bits.framework/Modules/Bits.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "ee9b8f9cc9a550dd2bffcc60ea920ce6"

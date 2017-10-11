@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "04f0d0042e3ddbe6c9a704ad6bda1da4"
+build_time: [1507711717, 230692000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/core.git-9210800844849382486/Sources/libc/libc.swift": [1507708928, 0]

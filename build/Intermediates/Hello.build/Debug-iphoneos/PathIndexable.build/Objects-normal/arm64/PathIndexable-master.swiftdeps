@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "b4676e877560e1ac131a5ca46da44345"
+build_time: [1507708947, 973960000]
+inputs:
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable+Subscripting.swift": [1507708930, 0]
+  "/Users/cansoykarafakili/Desktop/Hello/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable.swift": [1507708930, 0]
